@@ -7,13 +7,16 @@
 
 <h2>Welcome to my Github page! I am (Camilo Hernandez Cediel) => cherced(); </h2>
 <code><img width="10%" src="https://static.platzi.com/static/images/footer/logo.png"></code> <a href="https://platzi.com/p/Cherced/">  => Go to my Profile </a>
-<h3>Currently a Platzi MASTER Student!</h3>
+<h3>Frontend Developer</h3>
 
 <img align="right" alt="img" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Finish my studies in platzi master
-- Taking online courses about Frontend and Backend
+- Develop a deep understanding of MERN stack components, including MongoDB, Express.js, React, and Node.js.
+- Enhance your skills in UI/UX design by taking courses and workshops on UI/UX design principles, tools, and technologies.
+- Develop proficiency in using design tools like Sketch, Figma, or Adobe XD for creating UI/UX designs and wireframes.
+- Build and launch at least one project that showcases your skills in MERN stack, UI/UX design, and data modeling.
+- Explore and practice data modeling and database design for non-relational databases like MongoDB.
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
